@@ -2,3 +2,12 @@ User Access Names sudo
 Eugene 
 sam
 doc
+
+it working let's keep it going. how about this let add more deepth 
+
+[
+  { "username": "eugene", "role": "admin" },
+  { "username": "sam", "role": "developer" },
+  { "username": "doc", "role": "tester" }
+]
+  
